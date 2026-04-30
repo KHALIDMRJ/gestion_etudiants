@@ -179,7 +179,7 @@ http://localhost/TP_CRUD_en_PHP_MySQL/index.php
 
 ---
 
-# 📸 Screenshots (Add yours here)
+# 📸 Screenshots 
 
 ```md
 ![Home](screenshots/home.png)
